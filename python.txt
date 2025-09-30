@@ -1,1 +1,6 @@
 this is python file
+
+Added new lines
+init
+add
+remote orgin 
