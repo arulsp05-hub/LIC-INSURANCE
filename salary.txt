@@ -1,1 +1,6 @@
 This is SALARY info file
+
+
+RAM - 5000000
+TUTU - 1500000
+RISHI - 700000
